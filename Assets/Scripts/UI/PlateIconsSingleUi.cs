@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class PlateIconsSingleUi : MonoBehaviour
+public class PlateIconsSingleUI : MonoBehaviour
 {
     [SerializeField] private Image image;
 
