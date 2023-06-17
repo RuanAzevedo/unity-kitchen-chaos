@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Salad
   m_EditorClassIdentifier: 
   kitchenObjectsSOList:
-  - {fileID: 11400000, guid: d21b973ed3ee146c89f4a3b9649b2a45, type: 2}
-  - {fileID: 11400000, guid: 421ad7396f37544ccbee372cbfef83cd, type: 2}
-  recipeName: Burguer
+  - {fileID: 11400000, guid: 3ab5b990257b54a079207ccba638d11a, type: 2}
+  - {fileID: 11400000, guid: 5acfc06d28be54d59beeff1bb4688d25, type: 2}
+  recipeName: Salad
