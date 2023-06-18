@@ -3,6 +3,13 @@ using UnityEngine;
 public class CuttingCounter : BaseCounter, IHasProgress
 {
     public static event EventHandler OnAnyCut;
+
+    new public static void ResetStaticData()
+    {
+        OnAnyCut = null;
+    }
+
+
     public event EventHandler<IHasProgress.OnProgressChangedEventArgs> OnProgressChanged;
 
     public event EventHandler OnCut;
